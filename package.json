@@ -1,6 +1,6 @@
 {
   "main": "index.js",
-  "name": "jimp-png",
+  "name": "@arkntools/jimp-png",
   "types": "index.d.ts",
   "version": "1.0.0"
 }
